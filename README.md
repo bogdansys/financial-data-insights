@@ -1,6 +1,6 @@
 # Data Analysis Module & CSV Data Generator
 
-# Deployed app : 
+# Deployed app : https://financial-data-insights.vercel.app/
 
 ## Overview
 This project features two main components:
