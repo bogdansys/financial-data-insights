@@ -130,7 +130,7 @@ const Index = () => {
               About This App
             </Button>
             <div className="flex justify-center space-x-4 mt-4">
-              <a href="https://www.linkedin.com/notifications/?filter=all" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/mihai-iordache-676444187/" rel="noopener noreferrer">
                 <Button variant="outline" className="text-blue-600 border-blue-600 hover:bg-blue-50">
                   <Linkedin className="w-5 h-5 mr-2" /> LinkedIn
                 </Button>
